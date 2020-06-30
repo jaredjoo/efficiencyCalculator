@@ -4,4 +4,4 @@ The air density, swept area, and velocity are roughly constants depending on the
 The program initializes two arrays: Resistance and Voltage of the specific wind turbine, and the equations to calculate efficiency and power are used
 efficiency = Voltage2/(Resistance0.5*density*area*velocity^3)
 
-Power = 0.5*density*velocity3*area*efficiency
+Power = 0.5 * density * velocity3 * area * efficiency
